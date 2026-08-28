@@ -8,5 +8,5 @@ Experienced in React, Redux, JavaScript, GraphQL, Node.js, design systems, autom
 
 <a href="mailto:kirill\@bytin.net">kirill\@bytin.net</a>
 
-[![View CV](https://img.shields.io/badge/View%20CV?style=plastic
-)](#)
+[View CV](https://img.shields.io/badge/View%20CV?style=plastic
+)
