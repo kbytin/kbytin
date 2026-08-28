@@ -7,3 +7,6 @@ Currently contributing to the next generation of Nespresso.com, developing reusa
 Experienced in React, Redux, JavaScript, GraphQL, Node.js, design systems, automated testing, SEO and Web Vitals optimization. Comfortable working in distributed international teams and solving complex frontend challenges across large-scale, multi-market products.
 
 <a href="mailto:kirill\@bytin.net">kirill\@bytin.net</a>
+
+[![View CV](https://img.shields.io/badge/View%20CV?style=plastic&color=yellow
+)](#)
