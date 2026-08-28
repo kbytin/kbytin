@@ -20,9 +20,7 @@ Experienced in React, Redux, JavaScript, GraphQL, Node.js, design systems, autom
 <!-- bytin.net currently has no DNS record - uncomment once the site is live -->
 <!-- [![Website](https://img.shields.io/badge/bytin.net-53606D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bytin.net) -->
 <br>
-[kirill@bytin.net](https://mail.google.com/mail/?view=cm&fs=1&to=kirill@bytin.net)
 
-📍 Burgas, Bulgaria · 🏢 SQLI
 
 ## Skills
 
